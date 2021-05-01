@@ -1,5 +1,6 @@
 # QuestionBank
-this project provide the following features
+this project provide the following features:
+
 1:working Serach bar
 2:pagination
 3:Dark/light mode switching
